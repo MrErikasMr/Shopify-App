@@ -1,2 +1,3 @@
 Installed the location app dependencies, next step is to write the first line of code
 Figuring out how to get the location of a website visitor. Discovered that I can use google maps api for this so I will try to use that. 
+11/04 - Generated an API Key from Google Maps. I have $300 of credits left. Created a googleMapsAPIkey.js file to store the key. 
