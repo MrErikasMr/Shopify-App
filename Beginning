@@ -4,3 +4,4 @@ Figuring out how to get the location of a website visitor. Discovered that I can
 12/04 - No code today
 13/04 - Trying to figure out how to get country location of website visitor. Using google maps api doesn't work because of Shopify's policies. Next step is to get
 location via ip using GeoJS.
+15/04 Trying to wrap my head around how to insert the GeoJS code. Will watch a video about how to make a simple app using Remix and will go from there.
